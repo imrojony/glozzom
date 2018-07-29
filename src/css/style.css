@@ -59,6 +59,12 @@
 #gallery img {
   min-height: 250px; }
 
+#copyright {
+  background: #000; }
+
+#page-header {
+  background: url("../img/"); }
+
 @media (max-width: 767px) {
   nav-item {
     padding-left: 0 !important; } }
