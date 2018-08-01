@@ -59,11 +59,22 @@
 #gallery img {
   min-height: 250px; }
 
+#about-info img {
+  height: 350px;
+  width: 350px; }
+
+#icon-boxes .fa {
+  font-size: 50px;
+  margin-bottom: 20px; }
+
 #copyright {
   background: #000; }
 
 #page-header {
-  background: url("../img/"); }
+  background: url("../img/image1 (1).jpeg");
+  background-size: cover;
+  height: 200px;
+  background-attachment: fixed; }
 
 @media (max-width: 767px) {
   nav-item {
